@@ -1,6 +1,8 @@
 # sc2_team_classifier
 Created by Kyunglok Baik
 
+*Training data (for tag_ip.py) : tagged_team.p.zip -> must be unzipped to tagged_team.p before running.
+-------------------------------------------------------------------
 !! important : Please change directory path before running the files.
 
 1. feature_convert.py : consists of functions that generate features
